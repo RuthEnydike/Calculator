@@ -1,0 +1,30 @@
+.container{
+    background-color: rgba(236, 238, 237, 0.726);  
+    padding-top: 10px;
+    align-items: left;
+    
+}
+.zero{
+    text-align: right;
+    color: gray;
+
+}
+.mother-container{
+    text-align:center;
+}
+.btn-1{
+    padding: 40px;
+    width: 40pxpx;
+    height: 70px;
+    border: 0px;
+    border-radius: 10px;
+    margin-top:30px; 
+    margin-left: 20px;
+    box-shadow: 2px 2px 5px 2px rgb(192, 189, 209);
+}
+.clear{
+    color: rgb(255, 57, 7);
+}
+input{
+    height: 70px;
+}
